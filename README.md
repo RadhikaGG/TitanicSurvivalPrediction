@@ -1,1 +1,2 @@
 # TitanicSurvivalPrediction
+The Titanic dataset is a classic in the field of data science. I had the opportunity to preprocess and clean the data, transforming it into a format suitable for analysis. After thorough data preparation, I built a predictive model that can determine a person's survival chances based on their characteristics. It's all about using data to uncover insights and make informed decisions.
